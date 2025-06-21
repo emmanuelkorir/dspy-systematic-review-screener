@@ -27,9 +27,7 @@ Follow these steps to run the screening pipeline for your own research.
 
 Click the "Open in Colab" badge at the top of this README, or use the link below:
 
-**[https://colab.research.google.com/github/YOUR_USERNAME/dspy-systematic-review-screener/blob/main/dspy_review_screener.ipynb](https://colab.research.google.com/github/YOUR_USERNAME/dspy-systematic-review-screener/blob/main/dspy_review_screener.ipynb)**
-
-**Important:** Replace `YOUR_USERNAME` in the link above with your actual GitHub username!
+**[https://colab.research.google.com/github/emmanuelkrori/dspy-systematic-review-screener/blob/main/dspy-systeamtic-review-screener.ipynb](https://colab.research.google.com/github/emmanuelkorir/dspy-systematic-review-screener/blob/main/dspy-systematic-review-screener.ipynb)**
 
 ### 2. Set Up Your API Key
 
