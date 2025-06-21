@@ -1,6 +1,6 @@
 # DSPy Systematic Review Screener
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dspy-systematic-review-screener/blob/main/dspy_review_screener.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/dspy-systematic-review-screener/blob/main/dspy-systematic-review-screener.ipynb)
 
 An AI-powered pipeline using the DSPy framework to automate the title and abstract screening phase of systematic reviews and meta-analyses. This project is designed to be run entirely within Google Colab.
 
